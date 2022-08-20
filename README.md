@@ -1,7 +1,7 @@
 # Python-war-game
 War(card game) using Pyhton.
 
-<img width="346" alt="win" src="https://user-images.githubusercontent.com/103436003/185743138-c6b6e9f9-3696-470a-9deb-a6e8384f5605.PNG">
+<img width="372" alt="win" src="https://user-images.githubusercontent.com/103436003/185743462-43bff6fc-b1dd-4719-93d8-f2e4c6c871bc.PNG">
 
 <img width="304" alt="out of cards" src="https://user-images.githubusercontent.com/103436003/185743379-456b6222-d20f-4424-9240-0ee337d16eae.PNG">
 
